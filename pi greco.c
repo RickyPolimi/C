@@ -8,7 +8,7 @@ int main()
   float
    n_punti=0,n_tot,i;
   float n_casuale_y,n_casuale_x,raggio,risultato;
-  n_tot=1000000;
+  n_tot=100000;
   int precisione=1000;
 
   for(i=0;i<n_tot;i++)
